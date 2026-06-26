@@ -1,0 +1,23 @@
+
+git init : thong bao se dung git cho folder nay, chi lam 1 lan cho moi du an
+
+git remote add origin duong_dan_den_repo_git : ket noi folder hien tai voi repo tren git
+
+git remote -v: kiem tra lai thong tin
+
+--- day code len github
+git add .
+
+git commit -m "noi dung commit"
+
+git push 
+    o lan` dau` push 
+    git push -u origin main/master
+
+    lan binh thuong (not first)
+    git push
+
+file mau` xanh --- file moi tao
+
+u  : untracked : chua dua theo doi~
+A : added : da duoc them vao
