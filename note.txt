@@ -18,6 +18,12 @@ git push
     git push
 
 file mau` xanh --- file moi tao
+hello
+
+
 
 u  : untracked : chua dua theo doi~
 A : added : da duoc them vao
+M : modified dang co su thay doi
+d : delete
+c : conflix sung dot
