@@ -26,4 +26,8 @@ u  : untracked : chua dua theo doi~
 A : added : da duoc them vao
 M : modified dang co su thay doi
 d : delete
-c : conflix sung dot
+c : conflict sung dot
+
+
+git checkout : di den lan commit nao do, di den main/master
+branch :  nhanh'
