@@ -31,3 +31,5 @@ c : conflict sung dot
 
 git checkout : di den lan commit nao do, di den main/master
 branch :  nhanh'
+
+dòng code edit trực tiếp  trên github online
